@@ -161,3 +161,6 @@ cython_debug/
 
 lightning_logs/
 model_chp/
+
+Train.zip
+Validation.zip
